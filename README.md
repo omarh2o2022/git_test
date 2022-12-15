@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>git test</title>
+        <title>hello world</title>
 
     </head>
     this is my first file
